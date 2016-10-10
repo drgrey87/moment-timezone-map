@@ -1,6 +1,6 @@
 {
   "name": "moment-timezone-map",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/moment-timezone-map.js",
   "scripts": {
@@ -10,14 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/drgrey87/moment-timezone-map.git"
   },
-  "author": "kuku",
+  "author": "grey87",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/drgrey87/moment-timezone-map/issues"
   },
-  "homepage": "https://github.com/drgrey87/moment-timezone-map#readme",
-  "dependencies": {
-    "jquery": "^3.1.1",
-    "moment": "^2.15.1"
-  }
+  "homepage": "https://github.com/drgrey87/moment-timezone-map#readme"
 }
