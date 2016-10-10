@@ -1,0 +1,15 @@
+{
+  "name": "moment-timezone-map",
+  "version": "0.0.2",
+  "homepage": "https://github.com/drgrey87/moment-timezone-map",
+  "authors": [
+    "sergey <dr.grey_101by@inbox.ru>"
+  ],
+  "main": "lib/moment-timezone-map.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "ISC"
+}
